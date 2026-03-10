@@ -11,61 +11,57 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-Automation-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-Backend-focused engineer with 5+ years of experience shipping production systems.  
-I build robust finance dashboard platforms for banks and small businesses, with strong ownership across API design, database performance, and reliable deployments.
+I build production-grade finance platforms across backend engineering and delivery infrastructure.
 
-## Recruiter Snapshot
+- 5+ years shipping code to production
+- Experience building robust backend solutions for finance dashboards used by banks and small businesses
+- Focused on secure architecture, performance, and reliable releases
 
-- 5+ years in production delivery
-- Domain experience: finance dashboard backends and operational reporting systems
-- Strengths: Java backend architecture, Oracle data modeling/query tuning, DevOps automation
-- Tooling: Docker, Kubernetes, Jenkins, AWS EC2, GitHub Actions, Nginx
+## Profile Snapshot
 
-## Core Value I Bring
+- Backend Engineer: Java, Spring Boot, API design, Oracle-first data systems
+- DevOps Practitioner: Docker, Kubernetes, Jenkins, AWS EC2, Nginx, CI/CD automation
+- Product Mindset: build fast, stabilize early, scale safely
 
-- Build scalable and maintainable backend services with clear API contracts
-- Optimize Oracle-backed workflows for transactional and reporting use cases
-- Ship safely to UAT/PROD with repeatable CI/CD and infrastructure automation
-- Improve reliability through observability, health checks, and failure-ready runbooks
-
-## Featured Projects
+## Featured Work
 
 ### MTS Purchase Service (Backend)
-Finance operations backend handling auth, purchase orders, product catalog, and reports.
+Finance operations backend for auth, product catalog, purchase orders, and reports.
 
-- Repository: [mts-purchase-service](https://github.com/srijan2704/mts-purchase-service)
-- Stack: Java 21, Spring Boot, JPA/Hibernate, Oracle, Swagger/OpenAPI, Maven
-- Engineering highlights:
-  - secure auth/session lifecycle with OTP-based registration
-  - rate-limited authentication endpoints
-  - production deployment automation on EC2 via GitHub Actions + systemd
-  - API architecture for finance dashboard workflows
+- Repo: [mts-purchase-service](https://github.com/srijan2704/mts-purchase-service)
+- Badges: ![Java](https://img.shields.io/badge/Code-Java-007396?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![Oracle](https://img.shields.io/badge/DB-Oracle-F80000?logo=oracle&logoColor=white)
+- Stack: Java 21, Spring Boot, Spring Data JPA, Oracle, Maven, Swagger/OpenAPI
+- Delivered:
+  - token-based auth and session management
+  - OTP registration + security hardening
+  - rate-limited auth endpoints
+  - deployment automation to EC2
 
 ### MTS Finance Dashboard (Frontend)
-Vanilla JavaScript dashboard integrated with backend APIs.
+Operational finance dashboard integrated with backend APIs.
 
-- Repository: [mts-finance-dashboard](https://github.com/srijan2704/mts-finance-dashboard)
-- Stack: JavaScript (ES modules), HTML/CSS, Chart.js, Nginx
-- Product highlights:
-  - purchase flow and maintenance operations
-  - reporting views (daily trends, top products, top sellers)
-  - environment-aware runtime API configuration
+- Repo: [mts-finance-dashboard](https://github.com/srijan2704/mts-finance-dashboard)
+- Badges: ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Chart.js](https://img.shields.io/badge/Charts-Chart.js-FF6384?logo=chartdotjs&logoColor=white) ![Nginx](https://img.shields.io/badge/Web-Nginx-009639?logo=nginx&logoColor=white)
+- Stack: Vanilla JS, HTML/CSS, Chart.js, Nginx
+- Delivered:
+  - purchase workflow and maintenance modules
+  - reporting views for trends and top contributors
+  - environment-aware runtime configuration
 
-## Skills Matrix
+## Skills
 
-| Area | Skills |
-|---|---|
-| Backend Engineering | Java, Spring Boot, REST APIs, Validation, Auth/Session Design |
-| Database Engineering | Oracle SQL, schema design, indexing, query optimization |
-| DevOps & Cloud | Docker, Kubernetes, Jenkins, AWS EC2, GitHub Actions, Linux, Nginx, systemd |
-| Quality & Reliability | production debugging, logging/monitoring, performance tuning, secure coding |
+- **Languages & Backend:** Java, SQL, REST APIs, Spring Boot, Hibernate/JPA
+- **Databases:** Oracle, schema design, query tuning, indexing
+- **DevOps & Platform:** Docker, Kubernetes, Jenkins, GitHub Actions, AWS EC2, Linux, Nginx, systemd
+- **Quality & Reliability:** observability, production debugging, performance optimization, secure coding
 
-## Current Focus
+## Delivery Experience
 
-- High-performance backend services for finance workflows
-- Stronger release engineering and deployment reliability
-- Secure-by-default architecture for web-facing systems
+- Designed and shipped backend services for finance dashboard workloads
+- Built release pipelines and deployment scripts for repeatable production delivery
+- Worked across development, UAT, and production environments with reliability and security controls
 
-## Contact
+## Connect
 
 - GitHub: [@srijan2704](https://github.com/srijan2704)
+- Linkedin: [srijan-sah](https://www.linkedin.com/in/srijan-sah/)
